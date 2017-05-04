@@ -1,0 +1,10 @@
+[04-May-2017 12:34:59 America/Chicago] PHP Warning:  file_get_contents(http://www.weather-forecast.com/locations/San Francisco/forecasts/latest): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/tmastrorio/public_html/development/MyWeather/index.php on line 3
+[04-May-2017 12:38:38 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home4/tmastrorio/public_html/development/MyWeather/index.php on line 3
+[04-May-2017 12:39:04 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/tmastrorio/public_html/development/MyWeather/index.php on line 3
+[04-May-2017 12:40:29 America/Chicago] PHP Warning:  file_get_contents(http://www.weather-forecast.com/locations/aaaa/forecasts/latest): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/tmastrorio/public_html/development/MyWeather/index.php on line 6
+[04-May-2017 12:41:48 America/Chicago] PHP Warning:  file_get_contents(http://www.weather-forecast.com/locations/aaaa/forecasts/latest): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/tmastrorio/public_html/development/MyWeather/index.php on line 6
+[04-May-2017 13:06:19 America/Chicago] PHP Parse error:  syntax error, unexpected '$pageArray' (T_VARIABLE) in /home4/tmastrorio/public_html/development/MyWeather/index.php on line 22
+[04-May-2017 13:06:38 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home4/tmastrorio/public_html/development/MyWeather/index.php on line 22
